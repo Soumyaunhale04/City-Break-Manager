@@ -1,6 +1,6 @@
 ***City Break Manager for Travel Enthusiast***
 
-**Description**
+****Description****
 
 This project is for a person who is passionate about traveling and wants to manage their city breaks effectively. The program helps the user to keep a track of the places they want to visit or have visited. He/She can save the city details like name of location, country, and a small description. In addition to this, they can save their trip details also, like, start date, end date, how they want to rate the experience. This is a very basic model for various applications like digital journal app, travel blog website, travel review, etc.
 
